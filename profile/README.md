@@ -15,8 +15,8 @@ Surface characteristics and mass balance observations from the Greenland and Ant
 </h1> 
 
 # Repositories available:
-### [Processing script made public)](https://github.com/SUMup-database/SUMup-2023-compilation-scripts)
-### [Processing script and raw data (private, only for maintainers)](https://github.com/SUMup-database/SUMup-2023)
+### [Public compilation scripts](https://github.com/SUMup-database/SUMup-2023-compilation-scripts)
+### [Compilation scripts and raw data (private, only for maintainers)](https://github.com/SUMup-database/SUMup-2023)
 ### [Example scripts to us the SUMup 2023 files](https://github.com/SUMup-database/SUMup-example-scripts)
 ### [Forum for data suggestion and issue reports](https://github.com/SUMup-database/SUMup-data-suggestion/issues)
 
