@@ -13,7 +13,7 @@ Surface characteristics and mass balance observations from the Greenland and Ant
 </strong>
 <p align="center">
 <a href="https://www.scar.org/scar-news/antclimnow-news/antclimnow-grants-2021/"><img src="https://github.com/SUMup-database/.github/blob/main/profile/doc/misc/SCAR_logo_2018_white_background.png" alt="drawing" width="50"/></a>
-<a href="https://www.promice.dk/"><img src="https://github.com/SUMup-database/.github/blob/main/profile/doc/misc/Promice_GC-Net_colour.jpg" alt="drawing" width=150"/></a>
+<a href="https://www.promice.dk/"><img src="https://github.com/SUMup-database/.github/blob/main/profile/doc/misc/Promice_GC-Net_colour.jpg" alt="drawing" width=250"/></a>
 <a href="https://ntrs.nasa.gov/citations/20180007574"><img src="https://github.com/SUMup-database/.github/blob/main/profile/doc/misc/nasa-logo-web-rgb.png" alt="drawing" width="50"/></a>
 </p>
 </h1> 
