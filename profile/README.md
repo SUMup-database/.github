@@ -3,6 +3,9 @@
 <a href="https://www.promice.dk/"><img src="https://github.com/SUMup-database/.github/blob/main/profile/doc/misc/Promice_GC-Net_colour.jpg" alt="drawing" width=250"/></a>
 <a href="https://ntrs.nasa.gov/citations/20180007574"><img src="https://github.com/SUMup-database/.github/blob/main/profile/doc/misc/nasa-logo-web-rgb.png" alt="drawing" width="50"/></a>
 </p>
+<p align="center">
+<a href="https://github.com/SUMup-database"><img src="https://github.com/SUMup-database/.github/blob/main/profile/doc/misc/logo.png" alt="drawing" width=300"/></a>
+</p>
 
 
 <h1 style="font-size:20px">
