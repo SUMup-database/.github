@@ -20,6 +20,14 @@ Surface characteristics and mass balance observations from the Greenland and Ant
 
 # [Latest SUMup release](https://doi.org/10.18739/A2M61BR5M)
 
+Previous releases:
+- [2024](https://arcticdata.io/catalog/view/urn%3Auuid%3A35eb18e0-8107-4458-bc62-3cb194bb395f)
+- [2023](https://arcticdata.io/catalog/view/urn%3Auuid%3Aa82e1a6f-162a-46b5-be09-2d2c10d360fa)
+- [2022](https://arcticdata.io/catalog/view/urn%3Auuid%3Acab881d7-5609-41b2-92dd-32ddcd8a00e7)
+- [2021](https://doi.org/10.18739/A2W08WH6N)
+- [2019](https://doi.org/10.18739/A26D5PB2S)
+- [2018]([https://arcticdata.io/catalog/view/urn%3Auuid%3A223d872e-ad5b-484e-800e-24d3230f5c43](https://doi.org/10.18739/A2W950P44))
+
 # Repositories available:
 ### [Public compilation scripts](https://github.com/SUMup-database/SUMup-2024-compilation-scripts)
 ### [Example scripts to use the SUMup files](https://github.com/SUMup-database/SUMup-example-scripts)
