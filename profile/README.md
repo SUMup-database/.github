@@ -26,7 +26,7 @@ Previous releases:
 - [2022](https://arcticdata.io/catalog/view/urn%3Auuid%3Acab881d7-5609-41b2-92dd-32ddcd8a00e7)
 - [2021](https://doi.org/10.18739/A2W08WH6N)
 - [2019](https://doi.org/10.18739/A26D5PB2S)
-- [2018]([https://arcticdata.io/catalog/view/urn%3Auuid%3A223d872e-ad5b-484e-800e-24d3230f5c43](https://doi.org/10.18739/A2W950P44))
+- [2018](https://doi.org/10.18739/A2W950P44)
 
 # Repositories available:
 ### [Public compilation scripts](https://github.com/SUMup-database/SUMup-2024-compilation-scripts)
